@@ -1,0 +1,1108 @@
+{
+  "rss": {
+    "channel": {
+      "title": "Pallavi&#039;s Educational Site",
+      "link": "http://localhost/wordpress",
+      "description": "Just another WordPress site",
+      "pubDate": "Mon, 01 Feb 2021 10:34:15 +0000",
+      "language": "en-US",
+      "wxr_version": 1.2,
+      "base_site_url": "http://localhost/wordpress",
+      "base_blog_url": "http://localhost/wordpress",
+      "author": {
+        "author_id": 1,
+        "author_login": {
+          "__cdata": "pallavi"
+        },
+        "author_email": {
+          "__cdata": "pallavi.tawde09@gmail.com"
+        },
+        "author_display_name": {
+          "__cdata": "pallavi"
+        },
+        "author_first_name": {
+          "__cdata": ""
+        },
+        "author_last_name": {
+          "__cdata": ""
+        }
+      },
+      "category": {
+        "term_id": 1,
+        "category_nicename": {
+          "__cdata": "uncategorized"
+        },
+        "category_parent": {
+          "__cdata": ""
+        },
+        "cat_name": {
+          "__cdata": "Uncategorized"
+        }
+      },
+      "term": [
+        {
+          "term_id": 5,
+          "term_taxonomy": {
+            "__cdata": "nav_menu"
+          },
+          "term_slug": {
+            "__cdata": "about"
+          },
+          "term_parent": {
+            "__cdata": ""
+          },
+          "term_name": {
+            "__cdata": "About"
+          }
+        },
+        {
+          "term_id": 2,
+          "term_taxonomy": {
+            "__cdata": "nav_menu"
+          },
+          "term_slug": {
+            "__cdata": "about-us"
+          },
+          "term_parent": {
+            "__cdata": ""
+          },
+          "term_name": {
+            "__cdata": "About us"
+          }
+        },
+        {
+          "term_id": 3,
+          "term_taxonomy": {
+            "__cdata": "nav_menu"
+          },
+          "term_slug": {
+            "__cdata": "about-us-2"
+          },
+          "term_parent": {
+            "__cdata": ""
+          },
+          "term_name": {
+            "__cdata": "About Us (2)"
+          }
+        },
+        {
+          "term_id": 4,
+          "term_taxonomy": {
+            "__cdata": "nav_menu"
+          },
+          "term_slug": {
+            "__cdata": "home"
+          },
+          "term_parent": {
+            "__cdata": ""
+          },
+          "term_name": {
+            "__cdata": "Home"
+          }
+        },
+        {
+          "term_id": 1,
+          "term_taxonomy": {
+            "__cdata": "category"
+          },
+          "term_slug": {
+            "__cdata": "uncategorized"
+          },
+          "term_parent": {
+            "__cdata": ""
+          },
+          "term_name": {
+            "__cdata": "Uncategorized"
+          }
+        },
+        {
+          "term_id": 5,
+          "term_taxonomy": "nav_menu",
+          "term_slug": {
+            "__cdata": "about"
+          },
+          "term_name": {
+            "__cdata": "About"
+          }
+        },
+        {
+          "term_id": 2,
+          "term_taxonomy": "nav_menu",
+          "term_slug": {
+            "__cdata": "about-us"
+          },
+          "term_name": {
+            "__cdata": "About us"
+          }
+        },
+        {
+          "term_id": 3,
+          "term_taxonomy": "nav_menu",
+          "term_slug": {
+            "__cdata": "about-us-2"
+          },
+          "term_name": {
+            "__cdata": "About Us (2)"
+          }
+        },
+        {
+          "term_id": 4,
+          "term_taxonomy": "nav_menu",
+          "term_slug": {
+            "__cdata": "home"
+          },
+          "term_name": {
+            "__cdata": "Home"
+          }
+        }
+      ],
+      "generator": "https://wordpress.org/?v=5.6",
+      "item": [
+        {
+          "title": "Hello world!",
+          "link": "http://localhost/wordpress/2021/01/19/hello-world/",
+          "pubDate": "Tue, 19 Jan 2021 08:39:06 +0000",
+          "creator": {
+            "__cdata": "pallavi"
+          },
+          "guid": "http:/?p=1",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": "<!-- wp:paragraph -->\n<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n<!-- /wp:paragraph -->"
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 1,
+          "post_date": {
+            "__cdata": "2021-01-19 08:39:06"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-01-19 08:39:06"
+          },
+          "comment_status": {
+            "__cdata": "open"
+          },
+          "ping_status": {
+            "__cdata": "open"
+          },
+          "post_name": {
+            "__cdata": "hello-world"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "post"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "category": {
+            "__cdata": "Uncategorized"
+          },
+          "comment": {
+            "comment_id": 1,
+            "comment_author": {
+              "__cdata": "A WordPress Commenter"
+            },
+            "comment_author_email": {
+              "__cdata": "wapuu@wordpress.example"
+            },
+            "comment_author_url": "https://wordpress.org/",
+            "comment_author_IP": {
+              "__cdata": ""
+            },
+            "comment_date": {
+              "__cdata": "2021-01-19 08:39:06"
+            },
+            "comment_date_gmt": {
+              "__cdata": "2021-01-19 08:39:06"
+            },
+            "comment_content": {
+              "__cdata": "Hi, this is a comment.\nTo get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.\nCommenter avatars come from <a href=\"https://gravatar.com\">Gravatar</a>."
+            },
+            "comment_approved": {
+              "__cdata": "1"
+            },
+            "comment_type": {
+              "__cdata": "comment"
+            },
+            "comment_parent": 0,
+            "comment_user_id": 0
+          }
+        },
+        {
+          "title": "Sample Page",
+          "link": "http://localhost/wordpress/sample-page/",
+          "pubDate": "Tue, 19 Jan 2021 08:39:06 +0000",
+          "creator": {
+            "__cdata": "pallavi"
+          },
+          "guid": "http:/?page_id=2",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": "<!-- wp:paragraph -->\n<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:quote -->\n<blockquote class=wp-block-quote><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>\n<!-- /wp:quote -->\n\n<!-- wp:paragraph -->\n<p>...or something like this:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:quote -->\n<blockquote class=wp-block-quote><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>\n<!-- /wp:quote -->\n\n<!-- wp:paragraph -->\n<p>As a new WordPress user, you should go to <a href=\"http:/wordpress/wp-admin/\">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>\n<!-- /wp:paragraph -->"
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 2,
+          "post_date": {
+            "__cdata": "2021-01-19 08:39:06"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-01-19 08:39:06"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "open"
+          },
+          "post_name": {
+            "__cdata": "sample-page"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "page"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "postmeta": {
+            "meta_key": {
+              "__cdata": "_wp_page_template"
+            },
+            "meta_value": {
+              "__cdata": "default"
+            }
+          }
+        },
+        {
+          "title": "Privacy Policy",
+          "link": "http://localhost/wordpress/?page_id=3",
+          "pubDate": "Tue, 19 Jan 2021 08:39:06 +0000",
+          "creator": {
+            "__cdata": "pallavi"
+          },
+          "guid": "http:/?page_id=3",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": "<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Our website address is: http:.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What personal data we collect and why we collect it</h2><!-- /wp:heading --><!-- wp:heading {\"level\":3} --><h3>Comments</h3><!-- /wp:heading --><!-- wp:paragraph --><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading {\"level\":3} --><h3>Media</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading {\"level\":3} --><h3>Contact forms</h3><!-- /wp:heading --><!-- wp:heading {\"level\":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading {\"level\":3} --><h3>Embedded content from other websites</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading {\"level\":3} --><h3>Analytics</h3><!-- /wp:heading --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you request a password reset, your IP address will be included in the reset email.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Your contact information</h2><!-- /wp:heading --><!-- wp:heading --><h2>Additional information</h2><!-- /wp:heading --><!-- wp:heading {\"level\":3} --><h3>How we protect your data</h3><!-- /wp:heading --><!-- wp:heading {\"level\":3} --><h3>What data breach procedures we have in place</h3><!-- /wp:heading --><!-- wp:heading {\"level\":3} --><h3>What third parties we receive data from</h3><!-- /wp:heading --><!-- wp:heading {\"level\":3} --><h3>What automated decision making and/or profiling we do with user data</h3><!-- /wp:heading --><!-- wp:heading {\"level\":3} --><h3>Industry regulatory disclosure requirements</h3><!-- /wp:heading -->"
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 3,
+          "post_date": {
+            "__cdata": "2021-01-19 08:39:06"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-01-19 08:39:06"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "open"
+          },
+          "post_name": {
+            "__cdata": "privacy-policy"
+          },
+          "status": {
+            "__cdata": "draft"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "page"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "postmeta": {
+            "meta_key": {
+              "__cdata": "_wp_page_template"
+            },
+            "meta_value": {
+              "__cdata": "default"
+            }
+          }
+        },
+        {
+          "title": 1,
+          "link": "http://localhost/wordpress/1/",
+          "pubDate": "Mon, 01 Feb 2021 09:24:30 +0000",
+          "creator": {
+            "__cdata": "pallavi"
+          },
+          "guid": "http://localhost/wordpress/wp-content/uploads/2021/02/1.png",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": ""
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 6,
+          "post_date": {
+            "__cdata": "2021-02-01 09:24:30"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-02-01 09:24:30"
+          },
+          "comment_status": {
+            "__cdata": "open"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "1"
+          },
+          "status": {
+            "__cdata": "inherit"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "attachment"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "attachment_url": {
+            "__cdata": "http://localhost/wordpress/wp-content/uploads/2021/02/1.png"
+          },
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_wp_attached_file"
+              },
+              "meta_value": {
+                "__cdata": "2021/02/1.png"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_attachment_metadata"
+              },
+              "meta_value": {
+                "__cdata": "a:5:{s:5:\"width\";i:225;s:6:\"height\";i:225;s:4:\"file\";s:13:\"2021/02/1.png\";s:5:\"sizes\";a:1:{s:9:\"thumbnail\";a:4:{s:4:\"file\";s:13:\"1-150x150.png\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:9:\"image/png\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Home",
+          "link": "http://localhost/wordpress/2021/02/01/home/",
+          "pubDate": "Mon, 01 Feb 2021 09:34:17 +0000",
+          "creator": {
+            "__cdata": "pallavi"
+          },
+          "guid": "http://localhost/wordpress/2021/02/01/home/",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": ""
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 7,
+          "post_date": {
+            "__cdata": "2021-02-01 09:34:17"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-02-01 09:34:17"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "home"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 1,
+          "post_type": {
+            "__cdata": "nav_menu_item"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "category": {
+            "__cdata": "About us"
+          },
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_type"
+              },
+              "meta_value": {
+                "__cdata": "custom"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_menu_item_parent"
+              },
+              "meta_value": {
+                "__cdata": "0"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_object_id"
+              },
+              "meta_value": {
+                "__cdata": "7"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_object"
+              },
+              "meta_value": {
+                "__cdata": "custom"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_target"
+              },
+              "meta_value": {
+                "__cdata": ""
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_classes"
+              },
+              "meta_value": {
+                "__cdata": "a:1:{i:0;s:0:\"\";}"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_xfn"
+              },
+              "meta_value": {
+                "__cdata": ""
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_url"
+              },
+              "meta_value": {
+                "__cdata": "http://localhost/wordpress"
+              }
+            }
+          ]
+        },
+        {
+          "title": "",
+          "link": "http://localhost/wordpress/2021/02/01/8/",
+          "pubDate": "Mon, 01 Feb 2021 09:34:18 +0000",
+          "creator": {
+            "__cdata": "pallavi"
+          },
+          "guid": "http://localhost/wordpress/2021/02/01/8/",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": " "
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 8,
+          "post_date": {
+            "__cdata": "2021-02-01 09:34:18"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-02-01 09:34:18"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "8"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 2,
+          "post_type": {
+            "__cdata": "nav_menu_item"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "category": {
+            "__cdata": "About us"
+          },
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_type"
+              },
+              "meta_value": {
+                "__cdata": "post_type"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_menu_item_parent"
+              },
+              "meta_value": {
+                "__cdata": "0"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_object_id"
+              },
+              "meta_value": {
+                "__cdata": "2"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_object"
+              },
+              "meta_value": {
+                "__cdata": "page"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_target"
+              },
+              "meta_value": {
+                "__cdata": ""
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_classes"
+              },
+              "meta_value": {
+                "__cdata": "a:1:{i:0;s:0:\"\";}"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_xfn"
+              },
+              "meta_value": {
+                "__cdata": ""
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_url"
+              },
+              "meta_value": {
+                "__cdata": ""
+              }
+            }
+          ]
+        },
+        {
+          "title": "home",
+          "link": "http://localhost/wordpress/2021/02/01/home-2/",
+          "pubDate": "Mon, 01 Feb 2021 09:34:21 +0000",
+          "creator": {
+            "__cdata": "pallavi"
+          },
+          "guid": "http://localhost/wordpress/2021/02/01/home-2/",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": ""
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 9,
+          "post_date": {
+            "__cdata": "2021-02-01 09:34:21"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-02-01 09:34:21"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "home-2"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 1,
+          "post_type": {
+            "__cdata": "nav_menu_item"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "category": {
+            "__cdata": "About Us (2)"
+          },
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_type"
+              },
+              "meta_value": {
+                "__cdata": "custom"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_menu_item_parent"
+              },
+              "meta_value": {
+                "__cdata": "0"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_object_id"
+              },
+              "meta_value": {
+                "__cdata": "9"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_object"
+              },
+              "meta_value": {
+                "__cdata": "custom"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_target"
+              },
+              "meta_value": {
+                "__cdata": ""
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_classes"
+              },
+              "meta_value": {
+                "__cdata": "a:1:{i:0;s:0:\"\";}"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_xfn"
+              },
+              "meta_value": {
+                "__cdata": ""
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_url"
+              },
+              "meta_value": {
+                "__cdata": "#home"
+              }
+            }
+          ]
+        },
+        {
+          "title": "#About",
+          "link": "http://localhost/wordpress/2021/02/01/about/",
+          "pubDate": "Mon, 01 Feb 2021 09:34:23 +0000",
+          "creator": {
+            "__cdata": "pallavi"
+          },
+          "guid": "http://localhost/wordpress/2021/02/01/about/",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": ""
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 10,
+          "post_date": {
+            "__cdata": "2021-02-01 09:34:23"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-02-01 09:34:23"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "about"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 2,
+          "post_type": {
+            "__cdata": "nav_menu_item"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "category": {
+            "__cdata": "About Us (2)"
+          },
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_type"
+              },
+              "meta_value": {
+                "__cdata": "custom"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_menu_item_parent"
+              },
+              "meta_value": {
+                "__cdata": "0"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_object_id"
+              },
+              "meta_value": {
+                "__cdata": "10"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_object"
+              },
+              "meta_value": {
+                "__cdata": "custom"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_target"
+              },
+              "meta_value": {
+                "__cdata": ""
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_classes"
+              },
+              "meta_value": {
+                "__cdata": "a:1:{i:0;s:0:\"\";}"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_xfn"
+              },
+              "meta_value": {
+                "__cdata": ""
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_url"
+              },
+              "meta_value": {
+                "__cdata": "#About%20Us"
+              }
+            }
+          ]
+        },
+        {
+          "title": "",
+          "link": "http://localhost/wordpress/2021/02/01/14/",
+          "pubDate": "Mon, 01 Feb 2021 10:03:41 +0000",
+          "creator": {
+            "__cdata": "pallavi"
+          },
+          "guid": "http://localhost/wordpress/2021/02/01/14/",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": " "
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 14,
+          "post_date": {
+            "__cdata": "2021-02-01 10:03:41"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-02-01 10:03:41"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "14"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 1,
+          "post_type": {
+            "__cdata": "nav_menu_item"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "category": {
+            "__cdata": "About"
+          },
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_type"
+              },
+              "meta_value": {
+                "__cdata": "post_type"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_menu_item_parent"
+              },
+              "meta_value": {
+                "__cdata": "0"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_object_id"
+              },
+              "meta_value": {
+                "__cdata": "2"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_object"
+              },
+              "meta_value": {
+                "__cdata": "page"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_target"
+              },
+              "meta_value": {
+                "__cdata": ""
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_classes"
+              },
+              "meta_value": {
+                "__cdata": "a:1:{i:0;s:0:\"\";}"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_xfn"
+              },
+              "meta_value": {
+                "__cdata": ""
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_url"
+              },
+              "meta_value": {
+                "__cdata": ""
+              }
+            }
+          ]
+        },
+        {
+          "title": "Home",
+          "link": "http://localhost/wordpress/2021/02/01/home-3/",
+          "pubDate": "Mon, 01 Feb 2021 10:03:44 +0000",
+          "creator": {
+            "__cdata": "pallavi"
+          },
+          "guid": "http://localhost/wordpress/2021/02/01/home-3/",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": ""
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 15,
+          "post_date": {
+            "__cdata": "2021-02-01 10:03:44"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-02-01 10:03:44"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "home-3"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 2,
+          "post_type": {
+            "__cdata": "nav_menu_item"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "category": {
+            "__cdata": "About"
+          },
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_type"
+              },
+              "meta_value": {
+                "__cdata": "custom"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_menu_item_parent"
+              },
+              "meta_value": {
+                "__cdata": "0"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_object_id"
+              },
+              "meta_value": {
+                "__cdata": "15"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_object"
+              },
+              "meta_value": {
+                "__cdata": "custom"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_target"
+              },
+              "meta_value": {
+                "__cdata": ""
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_classes"
+              },
+              "meta_value": {
+                "__cdata": "a:1:{i:0;s:0:\"\";}"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_xfn"
+              },
+              "meta_value": {
+                "__cdata": ""
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_menu_item_url"
+              },
+              "meta_value": {
+                "__cdata": "http://localhost/wordpress"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
